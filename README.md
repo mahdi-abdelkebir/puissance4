@@ -1,6 +1,6 @@
 # puissance4
 
-Learnt a new Java Framework called JavaFX. 
+Learnt a new Java Framework called JavaFX. You can not only play with your friends but also export and import a game, moreover you can simulate an old game.
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -16,3 +16,4 @@ Learnt a new Java Framework called JavaFX.
      </td>
   </tr>
 </table>
+
